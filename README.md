@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on research at my school, UCI
+- 🌱 I’m currently learning Svelte as a part of the Zotistics team at ICSSC
+- 📫 How to reach me: hellozhaocharlie@gmail.com
+
 <!--
 **zcharz/zcharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
