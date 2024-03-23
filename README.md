@@ -1,12 +1,11 @@
-### Hey there!
+### Hey there! 🌊
 
 I'm currently: 
-- Working on AI and fullstack research at University of California - Irvine
-- Learning Svelte as a part of the Zotistics team at ICSSC
+- 🤖 Working on AI and fullstack research at University of California - Irvine
+- 💻 Learning Svelte as a part of the Zotistics team at ICSSC
 
 Check out my WIP website at https://zcharz.vercel.app/
-
-Let's get in touch - contact me at hellozhaocharlie@gmail.com
+Let's get in touch! Contact me at hellozhaocharlie@gmail.com
 
 <!--
 **zcharz/zcharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
