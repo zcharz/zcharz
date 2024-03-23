@@ -1,5 +1,4 @@
-## Hey there! 🌊
-
+### Hey there! 🌊
 I'm Charlie, a third year CS student at University of California - Irinve. 
 
 ### I'm currently: 
@@ -10,6 +9,8 @@ I'm Charlie, a third year CS student at University of California - Irinve.
 - 📫 Email: hellozhaocharlie@gmail.com
 - ⛓️ LinkedIn: https://www.linkedin.com/in/zhao-charlie/
 - 👷🏼 WIP website: https://zcharz.vercel.app/
+
+
 <!--
 **zcharz/zcharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
