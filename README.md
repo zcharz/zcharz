@@ -1,11 +1,15 @@
-### Hey there! 🌊
+## Hey there! 🌊
 
-I'm currently: 
+I'm Charlie, a third year CS student at University of California - Irinve. 
+
+# I'm currently: 
 - 🤖 Working on AI and fullstack research at University of California - Irvine
 - 💻 Learning Svelte as a part of the Zotistics team at ICSSC
 
-Check out my WIP website at https://zcharz.vercel.app/
-Let's get in touch! Contact me at hellozhaocharlie@gmail.com
+# Socials/Links
+- WIP website: https://zcharz.vercel.app/
+- Emailhellozhaocharlie@gmail.com
+
 
 <!--
 **zcharz/zcharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
