@@ -2,15 +2,14 @@
 
 I'm Charlie, a third year CS student at University of California - Irinve. 
 
-# I'm currently: 
+### I'm currently: 
 - 🤖 Working on AI and fullstack research at University of California - Irvine
 - 💻 Learning Svelte as a part of the Zotistics team at ICSSC
 
-# Socials/Links
-- WIP website: https://zcharz.vercel.app/
-- Emailhellozhaocharlie@gmail.com
-
-
+### Socials/Links
+- 📫 Email: hellozhaocharlie@gmail.com
+- ⛓️ LinkedIn: https://www.linkedin.com/in/zhao-charlie/
+- 👷🏼 WIP website: https://zcharz.vercel.app/
 <!--
 **zcharz/zcharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
