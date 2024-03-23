@@ -1,8 +1,9 @@
-### Hey there! 🌊
-I'm Charlie, a third year CS student at University of California - Irinve. 
+### About Me
+- 🌊 Nice to meet you! My name is Charlie
+- 👨🏼‍💻 CS student at University of California - Irinve
 
-### I'm currently: 
-- 🤖 Working on AI and fullstack research at University of California - Irvine
+### What I'm Doing ATM
+- 🤖 Working on AI and fullstack research at UCI
 - 💻 Learning Svelte as a part of the Zotistics team at ICSSC
 
 ### Socials/Links
