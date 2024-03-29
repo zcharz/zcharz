@@ -3,7 +3,7 @@
 - 3️⃣ 3rd year CS student
 - 👨🏼‍💻 Studying at University of California - Irinve
 
-### What I'm Doing ATM
+### What I'm Up To
 - 🤖 Researching AI at Institute of Transportation Studies
 - 📘 Participating in fullstack development at Donald Bren School of ICS
 - 💻 Rebuilding Zotistics with the team at ICSSC
