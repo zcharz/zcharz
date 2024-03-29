@@ -4,9 +4,9 @@
 - 👨🏼‍💻 Studying at University of California - Irinve
 
 ### What I'm Doing ATM
-- 🤖 Working on AI research at Institute of Transportation Studies
+- 🤖 Researching AI at Institute of Transportation Studies
 - 📘 Participating in fullstack development at Donald Bren School of ICS
-- 💻 Learning Svelte as a part of the Zotistics team at ICSSC
+- 💻 Rebuilding Zotistics with the team at ICSSC
 
 ### Socials/Links
 - 📫 Email: hellozhaocharlie@gmail.com
