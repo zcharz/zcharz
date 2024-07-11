@@ -10,7 +10,7 @@ Nice to meet you! I'm Charlie, a third year CS student at University of Californ
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhao-charlie/)  -->
 - 📫 Email: hellozhaocharlie@gmail.com
 - 🤝 LinkedIn: https://www.linkedin.com/in/zhao-charlie/
-- 👷🏼 WIP website: https://zcharz.vercel.app/
+- 👷🏼 Website: https://charz.dev
 
 <!-- 
 
