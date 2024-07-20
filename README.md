@@ -1,4 +1,4 @@
-## 🌊 Hey there - I'm Charlie 
+## 🌊 Hey there - I'm [Charlie](https://charz.dev) 
 
 Currently pursuing Computer Science at University of California, Irvine
 
