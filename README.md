@@ -2,7 +2,6 @@
 
 ```javascript
 const charz = {
-
     education: {
         degree: "Bachelor of Science",
         major: "Computer Science",
