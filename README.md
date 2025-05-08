@@ -14,7 +14,7 @@ const charz = {
         "producing music... check out my YouTube!"
     },
 
-    interests: ["Full-stack Development", "Machine Learning""],
+    interests: ["Full-stack Development", "Machine Learning"],
 
     technologies: {
         languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
