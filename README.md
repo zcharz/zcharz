@@ -28,8 +28,6 @@ const charz = {
             databases: ["MySQL", "MongoDB", "PostgreSQL"]
         }
     },
-
-    Fav Quote: "The only way to do great work is to love what you do."
 };
 ```
 
