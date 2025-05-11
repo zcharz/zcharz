@@ -43,7 +43,7 @@ const charz = {
 <a href="https://www.linkedin.com/in/zhao-charlie/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@czmusic_" target="_blank">
+<a href="https://www.youtube.com/@just_cz" target="_blank">
   <img src=https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logoColor=white/>
 </a>
 <!-- <a href="https://www.youtube.com/@czmusic_" target="_blank">
