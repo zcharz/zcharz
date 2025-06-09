@@ -30,7 +30,7 @@ const charz = {
 };
 ```
 
-## socials 🙇🏻
+## socials 🫡
 <a href="https://charz.dev/" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-%23ADD8E6.svg?style=for-the-badge&logoColor=white&color=ADD8E6" />
 </a>
