@@ -8,11 +8,11 @@ const charz = {
         university: "University of California, Irvine"
     },
 
-    currently: {
+    currently: [
         "working on PeterPortal Client (top pinned project)",
         "looking for full-time SWE positions",
         "producing music — check out my YouTube!"
-    },
+    ],
 
     interests: ["Full-stack Development", "Machine Learning"],
 
