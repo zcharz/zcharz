@@ -9,9 +9,9 @@ const charz = {
     },
 
     currently: {
-        "working on PeterPortal Client (pinned project)",
+        "working on PeterPortal Client (top pinned project)",
         "looking for full-time SWE positions",
-        "producing music... check out my YouTube!"
+        "producing music — check out my YouTube!"
     },
 
     interests: ["Full-stack Development", "Machine Learning"],
