@@ -32,16 +32,16 @@ const charz = {
 
 ## socials 🫡
 <a href="https://charz.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/portfolio-%23ADD8E6.svg?style=for-the-badge&logoColor=white&color=ADD8E6" />
+  <img src="https://img.shields.io/badge/website-%23ADD8E6.svg?style=for-the-badge&logoColor=white&color=ADD8E6" />
 </a>
 <!-- <a href="https://charz.dev/" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-%23ADD8E6.svg?style=for-the-badge&logo=square&logoColor=white&color=ADD8E6" />
 </a> -->
 <a href="mailto:hellozhaocharlie@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-%237CFC00.svg?style=for-the-badge&logo=envelope&logoColor=white&color=48D1CC" />
+  <img src="https://img.shields.io/badge/email-%23ADD8E6.svg?style=for-the-badge&logo=envelope&logoColor=white&color=48D1CC" />
 </a>
 <a href="https://www.linkedin.com/in/zhao-charlie/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/@just_cz" target="_blank">
   <img src=https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logoColor=white/>
