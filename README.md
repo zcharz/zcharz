@@ -23,8 +23,8 @@ const charz = {
             machine_learning: ["PyTorch", "NumPy", "Pandas"]
         },
         other_technologies: {
-            tools: ["Git", "AWS", "Linux],
-            databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase]
+            tools: ["Git", "AWS", "Linux"],
+            databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"]
         }
     },
 };
