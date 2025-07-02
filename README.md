@@ -14,17 +14,17 @@ const charz = {
         "producing music — check out my YouTube!"
     ],
 
-    interests: ["Full-stack Development", "Machine Learning"],
+    interests: ["Full-Stack Development", "Machine Learning"],
 
     technologies: {
         languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
         libraries_frameworks: {
-            full_stack: ["React", "Next.js", "Angular"],
+            app_dev: ["React", "Next.js", "Angular"],
             machine_learning: ["PyTorch", "NumPy", "Pandas"]
         },
-        other: {
-            tools: ["Git", "AWS"],
-            databases: ["MySQL", "MongoDB", "PostgreSQL"]
+        other_technologies: {
+            tools: ["Git", "AWS", "Linux],
+            databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase]
         }
     },
 };
