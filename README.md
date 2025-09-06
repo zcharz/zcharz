@@ -9,7 +9,6 @@ const charz = {
     },
 
     currently: [
-        "working on PeterPortal Client (top pinned project)",
         "looking for full-time SWE positions",
         "producing music — check out my YouTube!"
     ],
@@ -19,8 +18,8 @@ const charz = {
     technologies: {
         languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
         libraries_frameworks: {
-            app_dev: ["React", "Next.js", "Angular"],
-            machine_learning: ["PyTorch", "NumPy", "Pandas"]
+            dev: ["React", "Next.js", "Angular"],
+            ml: ["PyTorch", "NumPy", "Pandas"]
         },
         other_technologies: {
             tools: ["Git", "AWS", "Linux"],
