@@ -9,8 +9,8 @@ const charz = {
     },
 
     currently: [
-        "looking for full-time SWE positions",
-        "producing music — check out my YouTube!"
+        "Looking for full-time SWE positions",
+        "Producing music — check out my YouTube!"
     ],
 
     interests: ["Full-Stack Development", "Machine Learning"],
